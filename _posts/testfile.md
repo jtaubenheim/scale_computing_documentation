@@ -1,1 +1,1 @@
-This is a test file for the pr badge feature. 
+This is an updated test file for the pr badge feature. 
