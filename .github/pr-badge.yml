@@ -1,3 +1,4 @@
-- label: "Setup"
-  message: "Completed"
+- label: "Link"
+  message: "Documentation"
+  url: "https://jtaubenheim.github.io/scale_computing_documentation/howto/2022/11/18/naming-conventions.html"
   color: "green"
