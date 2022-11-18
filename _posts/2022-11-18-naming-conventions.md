@@ -1,7 +1,7 @@
 ---
 layout: category_post
 title: "Working with documentation naming conventions for new files"
-categories: how to
+categories: howto
 ---
 
 The creation of new documentation within the file structure should adhere to the following naming conventions:
