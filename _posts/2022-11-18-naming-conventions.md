@@ -1,5 +1,5 @@
 ---
-layout: category_post
+layout: category-post
 title: "Working with documentation naming conventions for new files"
 categories: howto
 ---
