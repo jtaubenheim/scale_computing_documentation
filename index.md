@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Scale Computing Technical Documentation
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+An example of a static site to host Scale Computing's technical documentation. 
 
 
